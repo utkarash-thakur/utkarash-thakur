@@ -80,6 +80,6 @@
 
 <hr>
 
-<p><img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api?username=utkarash33&show_icons=true&locale=en" alt="Utkarash33" /></p>
+<p><img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api?username=utkarash-thakur&show_icons=true&locale=en" alt="utkarash-thakur" /></p>
 
-<p><img align="right" style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarash33&" alt="Utkarash33" /></p>
+<p><img align="right" style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarash-thakur&" alt="utkarash-thakur" /></p>

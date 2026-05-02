@@ -1,11 +1,11 @@
 ![Header](hey.png)
-<h3 align="justify">Passionate and resourceful full-stack web developer showcasing expertise in SQL, Java programming, and HTML/CSS. Proficient in database management, code optimization, and crafting visually engaging web interfaces. Committed to delivering high-quality solutions, adept at quickly mastering new technologies, including Generative AI, to contribute effectively to challenging projects.</h3>
+<h3 align="justify">Java Backend Developer with over a year of professional experience in building scalable APIs, handling data securely, and improving system performance. Proficient in writing clean, maintainable code, integrating various systems, and optimizing data handling through SQL and Redis. Focused on writing reliable, testable code and continuously refining backend systems while growing technically and contributing to impactful work.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*k-Snk2qOam5GZ-_S.gif">
 
 - 🌱 I’m currently working as **Java Backend Development**
 
-- 👨‍💻 My personal website https://utkarash33.github.io
+- 👨‍💻 My personal website https://utkarash-thkaur.github.io
 
 - 💬 Ask me about **Java, SQL, Spring-boot, Redis, Kafka**
 

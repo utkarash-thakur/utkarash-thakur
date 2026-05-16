@@ -88,7 +88,7 @@
 <h2>📄 Resume</h2>
 
 <p align="center">
-<a href="https://drive.google.com/file/d/12XrvBoI3Z4QXo5Ibd2Ka3cFO97gIVlSM/view?usp=sharing">
+<a href="https://drive.google.com/file/d/18Y1HPoEI6O_oRsfp4NGZ-L06IzypqE7e/view?usp=sharing">
 <img src="https://img.shields.io/badge/View%20Resume-black?style=for-the-badge"/>
 </a>
 </p>

@@ -4,9 +4,9 @@
 
 <h1>Hey, I'm Utkarash 👋</h1>
 
-<h3>⚙️ Backend Engineer • Event-Driven Systems • Scale First</h3>
+<h3>⚙️ Backend Engineer • Java, Spring Boot, Kafka, Redis</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=550&lines=Building+Systems+that+Scale;Kafka+%7C+Redis+%7C+Spring+Boot;Handling+300K%2B+Users;Clean+Code+%7C+System+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=550&lines=Building+the+quiet+parts+of+a+product;Kafka+%7C+Redis+%7C+Spring+Boot;Bulk+messaging+to+300K+users;Clean%2C+testable+code" />
 
 <br/>
 
@@ -18,44 +18,64 @@
 
 <h2>🧠 About Me</h2>
 
+<p>
+I'm a backend engineer who likes building the quiet parts of a product: the services, queues and integrations that keep everything running.
+</p>
+
 <ul>
-<li>💼 Software Engineer @ <b>Hyperface Technologies</b></li>
-<li>⚡ Built systems serving <b>300K+ users</b></li>
-<li>🔄 Strong in <b>event-driven architecture (Kafka)</b></li>
-<li>🚀 Reduced API calls by <b>90% using Redis caching</b></li>
-<li>👥 Owned <b>end-to-end delivery</b> & mentored engineers</li>
+<li>💼 Software Engineer @ <b>Hyperface Technologies</b> (Mar 2024 – Present)</li>
+<li>☕ 2+ years building scalable, high-throughput backends with <b>Java, Spring Boot, Kafka and Redis</b></li>
+<li>📨 Bulk messaging over WhatsApp, RCS, email, SMS and push, reaching <b>up to 300K users</b> at peak</li>
+<li>🎟️ Serving vouchers from local stock cut external API calls by <b>about 90%</b></li>
+<li>🔁 Event-based nudges raised journey completion by <b>30–35%</b></li>
+<li>🤝 Loves collaborating across teams, taking features from idea to release</li>
 </ul>
 
 ---
 
 <h2>⚡ What I Build</h2>
 
-<p align="center">
-
-<b>Event → Process → Deliver → Scale</b>
-
-</p>
-
-<ul>
-<li>⚡ High-throughput event pipelines using Kafka</li>
-<li>📦 Multi-channel communication systems (Email, SMS, WhatsApp)</li>
-<li>🧠 Smart caching strategies using Redis</li>
-<li>🔁 Reliable systems with retries, DLQ & monitoring</li>
-</ul>
+<table>
+<tr><td><b>📬 Delivery reports on Kafka</b></td><td>Webhooks reply at once, consumers update status in the background, failing events go to a dead-letter topic.</td></tr>
+<tr><td><b>🔔 Event-based nudges</b></td><td>Bring users back when they stop mid-journey, with quiet hours and message limits.</td></tr>
+<tr><td><b>📦 Bulk sending</b></td><td>Big campaigns across many channels, every message tracked.</td></tr>
+<tr><td><b>🔌 Plug-and-play integrations</b></td><td>One API for many vendors: banks and card issuers switch vendors through config, not new code.</td></tr>
+<tr><td><b>🎟️ Vouchers from stock</b></td><td>Voucher lifecycle and inventory, served locally instead of calling vendors each time.</td></tr>
+</table>
 
 ---
 
 <h2>🛠️ Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,git,postman" />
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,gradle,gcp,aws,git,github,postman" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Hibernate-grey?style=flat-square"/>
-<img src="https://img.shields.io/badge/Groovy-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/JUnit-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hibernate%20%2F%20JPA-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Spring%20Security%20%26%20JWT-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square"/>
+<img src="https://img.shields.io/badge/Temporal-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square"/>
+<img src="https://img.shields.io/badge/Spock-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Signoz-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Claude%20AI%20%26%20MCP-D97757?style=flat-square"/>
 </p>
+
+---
+
+<h2>🚀 Featured Projects</h2>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**BookHubX**](https://github.com/utkarash-thakur/BooksBackend) | Bookstore and reader community with JWT auth and roles | Spring Boot, Spring Security, MySQL, Angular |
+| [**ShowTime Central**](https://github.com/utkarash-thakur/Show_Time_Central) | Event ticketing for customers, organizers and admins | Core Java, OOP, Serialization |
+| [**Car Rental System**](https://github.com/utkarash-thakur/Car_Rental_System) | Booking and fleet management with revenue reports | Java, Hibernate, JPA, MySQL |
+| [**Wondr Word**](https://github.com/utkarash-thakur/Amusment_Park_Management_System) | Amusement park booking REST API | Spring Boot, Spring Security, JWT, MySQL |
+| [**Traverse**](https://github.com/utkarash-thakur/Trasverse_holiday_app) · [live](https://travasure.netlify.app/) | Holiday booking website with admin area | JavaScript, HTML, CSS |
 
 ---
 
@@ -75,50 +95,24 @@
 <h2>📫 Connect With Me</h2>
 
 <p align="center">
+<a href="https://utkarash-thakur.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
 <a href="mailto:utkarash3319@gmail.com">
 <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/utkarash-thakur-70439a262/">
+<a href="https://www.linkedin.com/in/utkarash-thakur/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-</p>
-
----
-
-<h2>📄 Resume</h2>
-
-<p align="center">
-<a href="https://drive.google.com/file/d/18Y1HPoEI6O_oRsfp4NGZ-L06IzypqE7e/view?usp=sharing">
-<img src="https://img.shields.io/badge/View%20Resume-black?style=for-the-badge"/>
+<a href="https://drive.google.com/file/d/18d_qG6o18MiVgJKaKc1GyeB9yGMRhDiB/view">
+<img src="https://img.shields.io/badge/Resume-black?style=for-the-badge"/>
 </a>
 </p>
-
----
-
-<h2>🧩 Currently Exploring</h2>
-
-<ul>
-<li>🧠 Advanced System Design</li>
-<li>⚙️ Kafka internals</li>
-<li>📦 Distributed systems</li>
-</ul>
-
----
-
-<h2>⚡ Fun Mode</h2>
-
-<pre>
-while(alive) {
-    learn();
-    build();
-    improve();
-}
-</pre>
 
 ---
 
 <div align="center">
 
-✨ <i>"I build systems that don’t break when users show up."</i>
+✨ <i>"Good backends are quiet. They just keep working."</i>
 
 </div>

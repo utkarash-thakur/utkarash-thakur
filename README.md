@@ -19,15 +19,17 @@
 <h2>🧠 About Me</h2>
 
 <p>
-I'm a backend engineer who likes building the quiet parts of a product: the services, queues and integrations that keep everything running.
+I'm a backend engineer who likes building the quiet parts of a product, the services, queues and integrations that keep everything running.
 </p>
 
 <ul>
-<li>💼 Software Engineer @ <b>Hyperface Technologies</b> (Mar 2024 – Present)</li>
-<li>☕ 2+ years building scalable, high-throughput backends with <b>Java, Spring Boot, Kafka and Redis</b></li>
-<li>📨 Bulk messaging over WhatsApp, RCS, email, SMS and push, reaching <b>up to 300K users</b> at peak</li>
+<li>💼 Software Engineer (AE-2) @ <b>Hyperface Technologies</b> (Oct 2025 – Present), AE-1 from Mar 2024 to Oct 2025</li>
+<li>☕ 2.5+ years building scalable, high-throughput backends with <b>Java, Spring Boot, Kafka and Redis</b></li>
+<li>📨 Own the communication platform for Email, SMS, WhatsApp and RCS, reaching <b>up to 300K users</b> per campaign</li>
 <li>🎟️ Serving vouchers from local stock cut external API calls by <b>about 90%</b></li>
-<li>🔁 Event-based nudges raised journey completion by <b>30–35%</b></li>
+<li>🔁 Event-based nudges led to <b>30–35% more completed user journeys</b></li>
+<li>🗄️ Partitioning and archival of high-volume tables to blob storage</li>
+<li>🧑‍🏫 Mentored 2 junior engineers</li>
 <li>🤝 Loves collaborating across teams, taking features from idea to release</li>
 </ul>
 
@@ -39,7 +41,7 @@ I'm a backend engineer who likes building the quiet parts of a product: the serv
 <tr><td><b>📬 Delivery reports on Kafka</b></td><td>Webhooks reply at once, consumers update status in the background, failing events go to a dead-letter topic.</td></tr>
 <tr><td><b>🔔 Event-based nudges</b></td><td>Bring users back when they stop mid-journey, with quiet hours and message limits.</td></tr>
 <tr><td><b>📦 Bulk sending</b></td><td>Big campaigns across many channels, every message tracked.</td></tr>
-<tr><td><b>🔌 Plug-and-play integrations</b></td><td>One API for many vendors: banks and card issuers switch vendors through config, not new code.</td></tr>
+<tr><td><b>🔌 Plug-and-play integrations</b></td><td>One API for many vendors. Banks and card issuers switch vendors through config, not new code.</td></tr>
 <tr><td><b>🎟️ Vouchers from stock</b></td><td>Voucher lifecycle and inventory, served locally instead of calling vendors each time.</td></tr>
 </table>
 
@@ -56,7 +58,7 @@ I'm a backend engineer who likes building the quiet parts of a product: the serv
 <img src="https://img.shields.io/badge/Spring%20Security%20%26%20JWT-6DB33F?style=flat-square"/>
 <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square"/>
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square"/>
-<img src="https://img.shields.io/badge/Temporal-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Temporal%20Workflows-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square"/>
 <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square"/>
 <img src="https://img.shields.io/badge/Spock-blue?style=flat-square"/>
@@ -72,8 +74,6 @@ I'm a backend engineer who likes building the quiet parts of a product: the serv
 | Project | What it is | Stack |
 |---|---|---|
 | [**BookHubX**](https://github.com/utkarash-thakur/BooksBackend) | Bookstore and reader community with JWT auth and roles | Spring Boot, Spring Security, MySQL, Angular |
-| [**ShowTime Central**](https://github.com/utkarash-thakur/Show_Time_Central) | Event ticketing for customers, organizers and admins | Core Java, OOP, Serialization |
-| [**Car Rental System**](https://github.com/utkarash-thakur/Car_Rental_System) | Booking and fleet management with revenue reports | Java, Hibernate, JPA, MySQL |
 | [**Wondr Word**](https://github.com/utkarash-thakur/Amusment_Park_Management_System) | Amusement park booking REST API | Spring Boot, Spring Security, JWT, MySQL |
 | [**Traverse**](https://github.com/utkarash-thakur/Trasverse_holiday_app) · [live](https://travasure.netlify.app/) | Holiday booking website with admin area | JavaScript, HTML, CSS |
 
@@ -104,7 +104,7 @@ I'm a backend engineer who likes building the quiet parts of a product: the serv
 <a href="https://www.linkedin.com/in/utkarash-thakur/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://drive.google.com/file/d/18d_qG6o18MiVgJKaKc1GyeB9yGMRhDiB/view">
+<a href="https://drive.google.com/file/d/1RvxJqqhyFpFmyB-Qj7IdBdtabrIzdY_T/view">
 <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge"/>
 </a>
 </p>
